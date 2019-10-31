@@ -1,0 +1,14 @@
+{
+  "name": "smtp",
+  "version": "1.0.0",
+  "description": "sends emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.3.1"
+  }
+}
